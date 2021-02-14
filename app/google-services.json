@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24872470549",
+    "firebase_url": "https://hiresmart-87850.firebaseio.com",
+    "project_id": "hiresmart-87850",
+    "storage_bucket": "hiresmart-87850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24872470549:android:8c4cad06a28ec1f31b261c",
+        "android_client_info": {
+          "package_name": "com.avaloninfosys.hiresmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24872470549-vhgnbd1orqt0lri8hgp09l4mautvb4g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avaloninfosys.hiresmart",
+            "certificate_hash": "283e1a8f818104599d31974208049b909f1adcba"
+          }
+        },
+        {
+          "client_id": "24872470549-rm15smu4jj18qs1q5ekbbfd4rukh1544.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPwbTWhXVS7fmXkZLzxfOL5y03g0rU4e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24872470549-rm15smu4jj18qs1q5ekbbfd4rukh1544.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
